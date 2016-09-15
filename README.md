@@ -1,2 +1,4 @@
 # hello-world
-my first time github
+Hi Humans
+
+hakim here, i like python . i like to spend my focus to artificial intelegence
